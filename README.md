@@ -1,7 +1,7 @@
-# Sensiwise Backend Developer Case – Eylem Seyhan
+# Senswise Backend Developer Case – Eylem Seyhan
 
 ## 📌 Proje Özeti
-Bu proje, Sensiwise için geliştirilen bir case çalışmasıdır.  
+Bu proje, Senswise için geliştirilen bir case çalışmasıdır.  
 API, kullanıcı ekleme, güncelleme, silme ve listeleme işlemlerini sağlar.  
 Kullanıcı bilgileri aşağıdaki alanları içerir:
 
